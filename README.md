@@ -1,6 +1,6 @@
 # HajjSense: Human-Centered Crowd Insights by Verrels Eugeneo
 
-Welcome to **HajjSense**, which is my interactive dashboard that visualizes crowd behavior, safety incidents, and human experiences during the Hajj and Umrah pilgrimage.
+Welcome to **HajjSense**, which is my interactive dashboard that visualizes crowd behavior, safety incidents, and human experiences during the Hajj and Umrah pilgrimage. Here is the presentation link: https://docs.google.com/presentation/d/1hJs71P1vQFMM-1n85aVqY_4XkVpWkE-ugHjvfrcKFUI/edit?slide=id.g353638e5684_0_1384#slide=id.g353638e5684_0_1384
 
 This project combines **interactive maps**, **animated heatmaps**, **stress and fatigue patterns**, **incident analytics**, and **health condition insights**.
 ---
